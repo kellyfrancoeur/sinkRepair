@@ -1,0 +1,64 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "id": 1,
+      "plumberId": 1,
+      "requestId": 1,
+      "date_completed": 1660847564403
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": 1660852984686,
+      "date_completed": 1660852984686,
+      "id": 2
+    },
+    {
+      "requestId": 4,
+      "plumberId": 2,
+      "date_created": 1660852987352,
+      "date_completed": 1660852987352,
+      "id": 3
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Water Pressure is off",
+      "address": "555 North Street",
+      "budget": "350",
+      "neededBy": "2022-09-21",
+      "id": 4
+    },
+    {
+      "description": "Sink Leaks",
+      "address": "123 Main Street",
+      "budget": "300",
+      "neededBy": "2022-08-31",
+      "id": 6
+    },
+    {
+      "description": "Shower Sucks",
+      "address": "34 whatever ave",
+      "budget": "500",
+      "neededBy": "2022-08-27",
+      "id": 7
+    }
+  ]
+}

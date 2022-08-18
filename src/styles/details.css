@@ -1,0 +1,18 @@
+/* .field {
+    display: flex;
+    flex-direction: column;
+    padding: 3em;
+    justify-content: space-evenly;
+} */
+.div {
+    flex-direction: column;
+    margin: 2px 5px 2px 5px;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-x: hidden;
+    resize: horizontal;
+    display: block;
+    height:fit-content;
+}
+
+
